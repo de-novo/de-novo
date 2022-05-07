@@ -5,8 +5,7 @@
     
   # 😈 DE NOVO 😈
  
-  Sejong UNIV,Biotechnology (17.03~)  
-  UMC (22.03~)
+  
  
  
  
