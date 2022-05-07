@@ -5,6 +5,11 @@
     
   # 😈 DE NOVO 😈
  
+  Sejong UNIV,Biotechnology (17.03~)  
+  UMC (22.03~)
+ 
+ 
+ 
   #### MY SNS
   <a href='https://www.instagram.com/de_novo_life/'>
     <img src="https://img.shields.io/badge/de_novo_life-000000?style=flat&logo=Instagram&logoColor=white">
@@ -16,8 +21,8 @@
   #### EMAIL
   <p>vo0v0000@naver.com</p>
   
-  
-  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=vo0v0000)](https://solved.ac/vo0v0000)
+ 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de-novo&layout=compact&theme=dark)
   
   
