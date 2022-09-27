@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=Python&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=Nest.js&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-000000?style=for-the-badge&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=MYSQL&logoColor=white">
