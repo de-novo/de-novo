@@ -7,7 +7,11 @@
  
   
  
- 
+Sejong UNIV, Biotechnology (17.03~)
+
+UMC 2nd nodeJS (22.03~) 
+
+UMC 3rd nodeJS 파트장 (22.09~)
  
   #### MY SNS
   <a href='https://www.instagram.com/de_novo_life/'>
